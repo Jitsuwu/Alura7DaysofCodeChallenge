@@ -1,5 +1,5 @@
 /* #7daysOfCode by AluraLatam
-    #1 
+    #1 Comparar variables enteras con strings para verificar que sean del mismo tipo sin errores
 
 */
 /*
